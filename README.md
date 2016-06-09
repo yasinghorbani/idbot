@@ -21,6 +21,15 @@ token line 11  ("TOKEN")   /  ("123456:abcd")
 
 copy right [Taylor team](https://github.com/taylor-team)
 
+#Fix All Error
+```sh
+cd
+sudo pip install pyTelegramBotAPI
+git clone https://github.com/eternnoir/pyTelegramBotAPI.git
+cd pyTelegramBotAPI
+sudo python setup.py install
+pip install pytelegrambotapi --upgrade
+```
 
 #[DEMO](https://telegram.me/ID_bot_robot)
 
