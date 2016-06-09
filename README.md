@@ -23,12 +23,15 @@ copy right [Taylor team](https://github.com/taylor-team)
 
 #Fix All Error
 ```sh
-cd
+cd $HOME
 sudo pip install pyTelegramBotAPI
 git clone https://github.com/eternnoir/pyTelegramBotAPI.git
 cd pyTelegramBotAPI
 sudo python setup.py install
 pip install pytelegrambotapi --upgrade
+cd $HOME
+cd id-bot
+python2.7 info.py
 ```
 
 #[DEMO](https://telegram.me/ID_bot_robot)
