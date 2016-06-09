@@ -9,9 +9,10 @@ Telegram bot User info bot  Python
 sudo pip install pyTelegramBotAPI
 sudo pip install telebot
 sudo pip install logging
+sudo apt-get install python2.7
 git clone https://github.com/taylor-team/id-bot.git
 cd id-bot
-python info.py or screen python info.py
+python2.7 info.py or screen python2.7 info.py
 
 bot need Python 2.7.6
 ```
