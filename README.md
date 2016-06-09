@@ -7,6 +7,8 @@ Telegram bot User info bot  Python
 
 ```sh
 sudo pip install pyTelegramBotAPI
+sudo pip install telebot
+sudo pip install logging
 git clone https://github.com/taylor-team/id-bot.git
 cd id-bot
 python info.py or screen python info.py
