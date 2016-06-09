@@ -7,6 +7,7 @@ from telebot import types
 from telebot import util
 import sys
 import json
+import logging
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
