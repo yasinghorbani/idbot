@@ -12,6 +12,8 @@ sudo pip install logging
 git clone https://github.com/taylor-team/id-bot.git
 cd id-bot
 python info.py or screen python info.py
+
+bot need Python 2.7.6
 ```
 
 token line 11  ("TOKEN")   /  ("123456:abcd")
