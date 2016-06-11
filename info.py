@@ -11,7 +11,7 @@ import logging
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-bot = telebot.TeleBot("TOKEN")
+bot = telebot.TeleBot("232201377:AAFY3fvS3jAMjmrCVfSxEqOO18cG-kksb-s")
 
 @bot.message_handler(commands=['start', 'help'])
 def welcome(m):
